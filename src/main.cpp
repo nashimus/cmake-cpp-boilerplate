@@ -2,7 +2,6 @@
 
 #include "dummy.hpp"
 
-auto main() -> int
-{
-  fmt::print("{}\n", fib(10));
+auto main() -> int {
+    fmt::print("{}\n", fib(10));
 }
