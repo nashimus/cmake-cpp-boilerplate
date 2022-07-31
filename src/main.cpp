@@ -3,5 +3,5 @@
 #include "dummy.hpp"
 
 auto main() -> int {
-    fmt::print("{}\n", fib(10));
+  fmt::print("{}\n", fib(10));
 }
